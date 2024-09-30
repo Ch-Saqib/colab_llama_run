@@ -1,1 +1,1 @@
-# colab_llama_run
+# HOW WE RUN LLaMA  on Google Colab
